@@ -74,7 +74,7 @@ You can now exit this container with `CTRL+D`.
 ## Read the rfc
 
 Bioboxes provides RFC documents describing the interface. Each biobox of the
-same type should has the same interface, and therefore can be be swapped with
+same type should have the same interface, and therefore can be swapped with
 each other. The interface is represented by a YAML file and each assembler has
 biobox specific [inputs][] and [outputs][].
 
